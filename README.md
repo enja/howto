@@ -16,3 +16,4 @@ see package.json
 ## Who we are
 
 - Yuya Saito [Twitter@cssradar](http://twitter.com/cssradar): Editor in Chief and reviewer
+- Shogo Sensui [Twitter@1000ch](http://twitter.com/1000ch): Contributor
