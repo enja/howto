@@ -1,0 +1,31 @@
+{
+  "name": "howto-enja",
+  "version": "0.0.0",
+  "description": "This is where we will translate how-to articles into Japanese",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:enja/howto.git"
+  },
+  "keywords": [
+    "translatation",
+    "document",
+    "enja"
+  ],
+  "author": "Yuya Saito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enja/howto/issues"
+  },
+  "homepage": "https://github.com/enja/howto",
+  "dependencies": {
+    "roots": "~2.0.6",
+    "browserify": "~2.34.0",
+    "watchify": "~0.2.0"
+  },
+  "optionalDependencies": {
+    "hacker-deps": "0.0.1"
+  }
+}
